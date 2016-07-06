@@ -85,3 +85,4 @@ imshow(resized_image,interpolation='none')
 % 6. How to pick a specific section withing the array 
 % 7. How to compare the numerical contents of the array with its 
 % visual representation using imshow 
+
